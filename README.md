@@ -2,6 +2,10 @@
 
 **Learn CI/CD for Android step by step, from your first green build to senior-level pipelines.**
 
+### 👉 [Start learning: mohammadaqeel.github.io/learn-android-ci-cd](https://mohammadaqeel.github.io/learn-android-ci-cd/)
+
+No installation or sign-up needed. Just open the link and start with Lesson 1.
+
 ## Why I built this
 
 When I decided to learn CI/CD as an Android developer, I found the information scattered everywhere: GitHub Actions docs, Gradle docs, blog posts, conference talks and random workflow files on GitHub. Most resources were either too basic ("here's a YAML file, good luck") or assumed you already knew everything.
@@ -48,7 +52,9 @@ Your progress is **saved automatically in your browser**: completed lessons, tic
 
 ## Run locally
 
-Open `index.html` in a browser, or serve the folder:
+The easiest way is to use the live site: **https://mohammadaqeel.github.io/learn-android-ci-cd/**
+
+To run your own copy, open `index.html` in a browser, or serve the folder:
 
 ```bash
 npx serve .
